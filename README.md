@@ -7,7 +7,7 @@
 5. git checkout -- .  # Reconstruct committed files to the previous commit
 6. git log  # Get list of past commits
 7. git commit --amend  # Fix last commit comment
-8. git checkout -b <branchname>
+8. git checkout -b <branchname>  # Create new branch from last commit
 9. git branch  # Show current branch from branches
 10. git checkout master
 11. git branch -d <branchname>
